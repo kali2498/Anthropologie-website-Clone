@@ -1,0 +1,63 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  top: 0px;
+}
+
+.nav1 {
+  /* border: 2px solid red;  */
+  height: 2.2rem;
+  padding-top: 3px;
+  background-color: #af2c2c;
+}
+.italian {
+  font-size: 13px;
+  padding-top: 1px;
+  font-style: italic;
+}
+
+.flexNav {
+  justify-content: center;
+  gap: 10rem;
+  color: rgb(249, 249, 248);
+}
+.flexNav a:hover {
+  text-decoration: underline;
+}
+
+.langaugeTag {
+  /* border: 1px solid red; */
+  align-items: center;
+  display: flex;
+  justify-content: end;
+  padding-right: 30px;
+  height: 2.2rem;
+  background-color: rgba(247, 246, 242, 1);
+  position: relative;
+}
+.langaugeOption {
+  border: 1px solid;
+  font-size: 13px;
+  margin-right: 30px;
+  color: #167a92;
+}
+
+.langaugeSymbol {
+  border: 1px solid rgb(47, 2, 2);
+  width: 24px;
+  height: 20px;
+  color: #167a92;
+  margin-top: 2px;
+}
+.adminbutton {
+  display: flex;
+  font-size: 13px;
+  color: #167a92;
+  font-family: "Avenir Book", sans-serif;
+}
+.adminbutton p {
+  /* border: 1px solid red; */
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
