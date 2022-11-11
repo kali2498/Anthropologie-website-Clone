@@ -1,0 +1,32 @@
+.imagestand {
+  display: flex;
+  gap: 70px;
+}
+.imagestand img {
+  width: 20%;
+  margin-top: 40px;
+}
+
+.imagestand2 {
+  display: flex;
+  gap: 20px;
+}
+.imagestand2 img {
+  width: 48%;
+  margin-top: 40px;
+}
+
+
+.imagestand3 {
+    display: flex;
+    gap: 20px;
+  }
+  .imagestand3 img {
+    width: 31.6%;
+    margin-top: 40px;
+  }
+  
+
+  .imagestandSlider{
+    border: 3px solid red;
+  }
