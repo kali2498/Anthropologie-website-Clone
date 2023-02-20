@@ -2,7 +2,7 @@
 Anthropologie-website-Clone
 </h1>
 
-<h2>Explore Anthropologie's unique collection of women's clothing, accessories, home décor, furniture, gifts and more. 24/7 free shipping on orders $150+.</h2>
+Explore Anthropologie's unique collection of women's clothing, accessories, home décor, furniture, gifts and more. 24/7 free shipping on orders $150+.
 
 ![Screenshot (2440)](https://user-images.githubusercontent.com/103638485/207080533-20a9305b-c785-4f58-8f4f-35bce6fcf5f1.png)
 
